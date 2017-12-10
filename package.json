@@ -2,7 +2,7 @@
   "name": "create-wepy-app",
   "version": "1.0.0",
   "description": "help you create wepy app comfortably",
-  "main": "index.js",
+  "main": "bin/cwa.js",
   "bin": {
     "cwa": "bin/cwa.js",
     "cwa-init": "bin/cwa-init.js"

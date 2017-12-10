@@ -8,8 +8,11 @@ const home = require('user-home')
 const tildify = require('tildify')
 const inquirer = require('inquirer')
 const download = require('download-git-repo')
+const rm = require('rimraf').sync
 const checkVersion = require('../lib/check-version')
+const generate = require('../lib/generate')
 const logger = require('../lib/logger')
+const warnings = require('../lib/warnings')
 const localPath = require('../lib/local-path')
 
 const isLocalPath = localPath.isLocalPath
