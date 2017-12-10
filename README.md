@@ -1,5 +1,5 @@
 # create-wepy-app
-create-wepy-app is a fork of wepy-cli
+create-wepy-app is a fork of vue-cli
 
 ## 安装（install）
 
