@@ -14,13 +14,11 @@ npm install -g create-wepy-app
 
 ```bash
 cwa init standard <my-project>
-
 ```
 
-可用的官方W俄PY模板
+可用的官方WePY模板
 
 ```bash
 cwa list
-
 ```
 
